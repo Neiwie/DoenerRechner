@@ -1,6 +1,6 @@
 # DönerRechner
 
-Ein kleines, Fun Project, mit dem du schnell einen Eurobetrag in Döner umgerechnen kannst.
+Ein kleines, Fun Project, mit dem du schnell einen Eurobetrag in Döner umrechnen kannst.
 
 Der Rechner verwendet einen durchschnittlichen Dönerpreis von 8,50 € und zeigt dir das Ergebnis direkt in "Döner" an.
 
