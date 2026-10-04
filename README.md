@@ -22,7 +22,7 @@ Beispiel:
 
 - Einfaches Swing-GUI
 - Schnelle Berechnung per Klick
-- Lustige, praktische Frage: "Wie viele Döner ist mein Geld wert?"
+- Praktische Frage: "Wie viele Döner ist mein Geld wert?"
 - Perfekt für kleine Spaßprojekte oder als Einstieg in Java-GUI-Programmierung
 
 ## So startest du das Projekt
